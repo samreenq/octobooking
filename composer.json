@@ -1,0 +1,5 @@
+{
+    "require": {
+        "thetechnicalcircle/codeigniter_social_login": "dev-master"
+    }
+}
